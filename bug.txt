@@ -1,2 +1,1 @@
-este es el archivo con el bug
-modificado
+esto es un cambio para gitHub
